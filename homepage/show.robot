@@ -4,7 +4,7 @@ Resource            ../resource/keywords.robot
 Resource            ./local_keywords.robot
 Variables           ./local_variables.py
 
-Test Setup            เปิดบราวเซอร์ web และกดปุ่ม log in
+Test Setup            เปิดเว็ปบราวเซอร์
 Test Teardown         ปิดบราวเซอร์
 
 *** Tasks ***
