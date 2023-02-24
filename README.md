@@ -16,13 +16,13 @@ Follow https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-py
 ## run command
 module homepage
 ```
-    .\run_module_homepage.bat
+.\run_module_homepage.bat
 ```
 module login
 ```
-    .\run_module_login.bat
+.\run_module_login.bat
 ```
 module register
 ```
-    .\run_module_register.bat
+.\run_module_register.bat
 ```
